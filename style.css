@@ -1,0 +1,12 @@
+.heading-name {
+	color: rgb(4, 0, 219);
+	-webkit-text-stroke: 1px rgb(0, 250, 237);
+	font-weight: bolder;
+	font-size: 3em;
+	text-transform: capitalize;
+	font-family: "Times New Roman", Times, serif;
+	margin-top: 10px;
+}
+.projects {
+	font-family: "serif";
+}
